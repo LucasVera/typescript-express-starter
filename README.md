@@ -1,8 +1,8 @@
-# Inflw user api
+# Boilerplate typescript-express
 
 ---
 
-This is the user service's API for Inflw.
+This is the boilerplate for a typescript + express project
 
 ### How to run
 
