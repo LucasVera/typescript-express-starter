@@ -1,7 +1,7 @@
 {
-  "name": "inflw-user-api",
+  "name": "typescript-express-starter",
   "version": "1.0.0",
-  "description": "a",
+  "description": "starter project for express and typescript",
   "main": "index.js",
   "scripts": {
     "build:watch": "npm run build watch=true",
