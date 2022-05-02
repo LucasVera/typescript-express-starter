@@ -20,3 +20,10 @@ This is the boilerplate for a typescript + express project
 - jest
 - eslint
 - prettier
+
+### Docker commands
+- docker build . -t user-api-img
+- docker run -p 8080:8080 --name user-api-cont -d user-api-img
+
+#### sh into container
+- docker exec -it user-api-cont sh
